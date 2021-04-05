@@ -1,4 +1,4 @@
-# CodeCampProject 
+# Boston Code Camp Session Management Desktop Application 
 -> Built with C#, WPF, MVVM Protocol and MYSQL
 
 # Packages Used:
